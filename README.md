@@ -1,5 +1,7 @@
 # Email Sender
 
+
+
 ## Introduction
 
 This is a simple Python script for sending emails to multiple recipients with attachments.
@@ -9,6 +11,9 @@ This is a simple Python script for sending emails to multiple recipients with at
 - Send emails to a list of recipients.
 - Customize email subjects.
 - Attach files to your emails.
+
+  
+![emailsender](https://github.com/keviwsilva/Email-sender/assets/99736435/ca8c4256-5b04-4ba0-a795-6e683227a0e6)
 
 ## How to Use
 
